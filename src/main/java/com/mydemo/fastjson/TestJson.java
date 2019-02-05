@@ -18,7 +18,7 @@ import com.alibaba.fastjson.JSONObject;
  *************************************************************************
  */
 public class TestJson {
-	//json字符串-简单对象型
+	//json字符串-简单对象型````````````````
 	private static final String  JSON_OBJ_STR = "{\"f\":\"lily\",\"studentAge\":12}";
 	//json字符串-数组类型
 	private static final String  JSON_ARRAY_STR = "[{\"studentName\":\"lily\",\"studentAge\":12},{\"studentName\":\"lucy\",\"studentAge\":15}]";
