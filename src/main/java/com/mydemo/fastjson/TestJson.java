@@ -3,6 +3,7 @@
  */
 package com.mydemo.fastjson;
 
+
 import org.junit.Test;
 
 import com.alibaba.fastjson.JSON;
